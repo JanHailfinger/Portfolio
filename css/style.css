@@ -1,0 +1,40 @@
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+html,
+body {
+  height: 100%;
+}
+.navbar-expand-md .navbar-nav .dropdown-menu {
+  position: absolute !important;
+}
+
+.custom-toggler.navbar-toggler {
+  border: none;
+}
+
+.rowy > div[class*='col-'] {
+  display: flex;
+  flex:1 0 auto;
+}
+
+.card {
+  width:100%;
+}
+
+.border-radius{
+  border-radius: 20px;
+}
+
+.round{
+  border-radius: 100%;
+}
+
+section{
+  height: 100vh;
+}
