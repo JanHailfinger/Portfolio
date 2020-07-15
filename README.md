@@ -7,6 +7,7 @@ To Do :
 
 Install:
 * Import the sql file into your database
+* Edit config.ini
 * Edit .htaccess
 ```
     RewriteEngine On
